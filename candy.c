@@ -29,12 +29,6 @@
 #define COL_W 120;
 #define INFO_H 120//tamanho da celula
 #define FPS 1
-//#define MARGIN 5
-
-
-//#define LARGURA_JOGO LARGURA_TELA-64
-//#define ALTURA_JOGO ALTURA_TELA-64
-
 
 //estruturas
 typedef struct Candy {
